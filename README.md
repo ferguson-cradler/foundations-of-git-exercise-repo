@@ -25,5 +25,8 @@ Update this!
 
 Changes here on origin.
 
+Working directory changes.
+Working directory changes.
+Working directory changes.
 More changes to provoke conflict with stash.
 Working directory changes.
