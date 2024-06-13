@@ -24,3 +24,5 @@ However, to completely reset the repo back to its original state, consider delet
 Update this!
 
 Changes here on origin.
+
+More changes to provoke conflict with stash.
