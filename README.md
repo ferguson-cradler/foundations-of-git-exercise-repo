@@ -26,3 +26,4 @@ Update this!
 Changes here on origin.
 
 More changes to provoke conflict with stash.
+Working directory changes.
